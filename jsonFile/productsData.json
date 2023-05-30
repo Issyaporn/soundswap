@@ -1,0 +1,107 @@
+[
+    {
+        "category": "Pop",
+        "title": "Hounds of Love",
+        "price": 1999.0,
+        "imageUrl": "images/cover/pop1.png",
+        "detail": "Artist: Kate Bush"
+    },
+    {
+        "category": "Pop",
+        "title": "Motomami",
+        "price": 2999.0,
+        "imageUrl": "images/cover/pop2.png",
+        "detail": "Artist: Rosalía"
+    },
+    {
+        "category": "Pop",
+        "title": "Desire, I Want To Turn Into You",
+        "price": 2999.0,
+        "imageUrl": "images/cover/pop3.png",
+        "detail": "Artist: Caroline Polachek"
+    },
+    {
+        "category": "Pop",
+        "title": "Post",
+        "price": 3999.0,
+        "imageUrl": "images/cover/pop4.png",
+        "detail": "Artist: Björk"
+    },
+    {
+        "category": "Pop",
+        "title": "Melodrama",
+        "price": 1999.0,
+        "imageUrl": "images/cover/pop5.png",
+        "detail": "Artist: Lorde"
+    },
+    {
+        "category": "Rock",
+        "title": "Abbey Road",
+        "price": 3999.0,
+        "imageUrl": "images/cover/rock1.png",
+        "detail": "Artist: The Beatles"
+    },
+    {
+        "category": "Rock",
+        "title": "Dark Side Of The Moon",
+        "price": 2999.0,
+        "imageUrl": "images/cover/rock2.png",
+        "detail": "Artist: Pink Floyd"
+    },
+    {
+        "category": "Rock",
+        "title": "Led Zeppelin",
+        "price": 1999.0,
+        "imageUrl": "images/cover/rock3.png",
+        "detail": "Artist: Led Zeppelin"
+    },
+    {
+        "category": "Rock",
+        "title": "Nevermind",
+        "price": 3999.0,
+        "imageUrl": "images/cover/rock4.png",
+        "detail": "Artist: Nirvana"
+    },
+    {
+        "category": "Rock",
+        "title": "Enema Of The State",
+        "price": 2999.0,
+        "imageUrl": "images/cover/rock5.png",
+        "detail": "Artist: Blink 182"
+    },
+    {
+        "category": "Hiphop",
+        "title": "The Marshall Mathers LP",
+        "price": 3999.0,
+        "imageUrl": "images/cover/hh1.png",
+        "detail": "Artist: Eminem"
+    },
+    {
+        "category": "Hiphop",
+        "title": "The Chronic",
+        "price": 2999.0,
+        "imageUrl": "images/cover/hh2.png",
+        "detail": "Artist: Dr Dre"
+    },
+    {
+        "category": "Hiphop",
+        "title": "The Score",
+        "price": 1999.0,
+        "imageUrl": "images/cover/hh3.png",
+        "detail": "Artist: The Fugees"
+    },
+    {
+        "category": "Hiphop",
+        "title": "Paul's Boutique",
+        "price": 3999.0,
+        "imageUrl": "images/cover/hh4.png",
+        "detail": "Artist: Beastie Boys"
+    },
+    {
+        "category": "Hiphop",
+        "title": "Nothing Was The Same",
+        "price": 3999.0,
+        "imageUrl": "images/cover/hh5.png",
+        "detail": "Artist: Drake"
+    }
+]
